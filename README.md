@@ -1,0 +1,2 @@
+# GoNotificationService
+[DESIGNER] Notification service
