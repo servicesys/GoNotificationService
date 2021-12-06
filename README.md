@@ -11,3 +11,7 @@ https://medium.com/swlh/architecting-a-scalable-notification-service-778c6fb3ac2
 
 10 Best Push Notification Services & Tools [2021]
 https://www.mobiloud.com/blog/best-push-notification-services
+
+Notification System Architecture
+https://medium.com/interviewnoodle/notification-system-architecture-e0d98ab3d18
+
